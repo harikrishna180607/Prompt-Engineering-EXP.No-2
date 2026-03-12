@@ -21,6 +21,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+
+
 CHATGPT 1️⃣ Zero-Shot Prompt Summarize the following article about “The Basics of Blockchain Technology”? Article: Blockchain technology is a decentralized digital ledger that records transactions across many computers. Each record is stored in a block, and these blocks are linked together to form a chain. This structure makes the data secure and difficult to change. Blockchain does not rely on a central authority, which increases transparency and trust. It is widely used in cryptocurrencies such as Bitcoin, but it also has applications in finance, supply chain management, healthcare, and voting systems. The main advantages of blockchain include security, transparency, and immutability of data.
 
 2️⃣ Few-Shot Prompt Example 1 Topic: Artificial Intelligence Summary: Artificial Intelligence is a technology that enables machines to simulate human intelligence, learn from data, and perform tasks such as problem-solving and decision-making.
